@@ -1,0 +1,15 @@
+D:\.py assignments\Python-week-2\MyDotNetApp\bin\Debug\net9.0\MyDotNetApp.exe
+D:\.py assignments\Python-week-2\MyDotNetApp\bin\Debug\net9.0\MyDotNetApp.deps.json
+D:\.py assignments\Python-week-2\MyDotNetApp\bin\Debug\net9.0\MyDotNetApp.runtimeconfig.json
+D:\.py assignments\Python-week-2\MyDotNetApp\bin\Debug\net9.0\MyDotNetApp.dll
+D:\.py assignments\Python-week-2\MyDotNetApp\bin\Debug\net9.0\MyDotNetApp.pdb
+D:\.py assignments\Python-week-2\MyDotNetApp\obj\Debug\net9.0\MyDotNetApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\.py assignments\Python-week-2\MyDotNetApp\obj\Debug\net9.0\MyDotNetApp.AssemblyInfoInputs.cache
+D:\.py assignments\Python-week-2\MyDotNetApp\obj\Debug\net9.0\MyDotNetApp.AssemblyInfo.cs
+D:\.py assignments\Python-week-2\MyDotNetApp\obj\Debug\net9.0\MyDotNetApp.csproj.CoreCompileInputs.cache
+D:\.py assignments\Python-week-2\MyDotNetApp\obj\Debug\net9.0\MyDotNetApp.sourcelink.json
+D:\.py assignments\Python-week-2\MyDotNetApp\obj\Debug\net9.0\MyDotNetApp.dll
+D:\.py assignments\Python-week-2\MyDotNetApp\obj\Debug\net9.0\refint\MyDotNetApp.dll
+D:\.py assignments\Python-week-2\MyDotNetApp\obj\Debug\net9.0\MyDotNetApp.pdb
+D:\.py assignments\Python-week-2\MyDotNetApp\obj\Debug\net9.0\MyDotNetApp.genruntimeconfig.cache
+D:\.py assignments\Python-week-2\MyDotNetApp\obj\Debug\net9.0\ref\MyDotNetApp.dll

@@ -1,0 +1,6 @@
+{"python.pythonPath": "C:\\Path\\To\\Python",
+"python.autoComplete.extraPaths": [
+    "C:\\Path\\To\\Your\\Modules"
+]
+
+}
